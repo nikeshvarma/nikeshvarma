@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS & Django**
 
-- 📫 How to reach me **nikeshvarma50@gmail.com**
+- 📫 Reach me **nikeshvarma50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -17,9 +17,11 @@
   </a>
   &nbsp;
   &nbsp;
+  &nbsp;
   <a href="https://fb.com/nikesh.varma.520" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikesh.varma.520"        height="30" width="40" />
   </a>
+  &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://instagram.com/__nikesh08__" target="blank">
@@ -27,14 +29,17 @@
   </a>
   &nbsp;
   &nbsp;
+  &nbsp;
   <a href="https://www.codechef.com/users/nikeshvarma" target="blank">
     <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="nikeshvarma" height="30" width="60" />
   </a>
   &nbsp;
   &nbsp;
+  &nbsp;
    <a href="https://www.hackerrank.com/nikeshvarma50" target="blank">
      <img align="center" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="nikeshvarma50" height="20" width="100" />
   </a>
+  &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://www.hackerearth.com/@nikesh45" target="blank">
@@ -79,10 +84,6 @@
   &nbsp;
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   &nbsp;
   <a href="https://www.sqlite.org/" target="_blank"> 
