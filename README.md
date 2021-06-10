@@ -17,11 +17,9 @@
   </a>
   &nbsp;
   &nbsp;
-  &nbsp;
    <a href="https://www.hackerrank.com/nikeshvarma50" target="blank">
      <img align="center" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="nikeshvarma50" height="20" width="100" />
   </a>
-  &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://www.hackerearth.com/@nikesh45" target="blank">
