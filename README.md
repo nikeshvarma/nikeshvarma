@@ -16,11 +16,9 @@
     <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="nikeshvarma" height="30" width="60" />
   </a>
   &nbsp;
-  &nbsp;
    <a href="https://www.hackerrank.com/nikeshvarma50" target="blank">
      <img align="center" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="nikeshvarma50" height="20" width="100" />
   </a>
-  &nbsp;
   &nbsp;
   <a href="https://www.hackerearth.com/@nikesh45" target="blank">
     <img align="center" src="https://static-fastly.hackerearth.com/newton/production/static/images/common/he-header-logo.svg" alt="@nikesh45" height="20" width="100" />
