@@ -12,24 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/nikesh55947741" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikesh55947741"            height="30" width="40" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://fb.com/nikesh.varma.520" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikesh.varma.520"        height="30" width="40" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://instagram.com/__nikesh08__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nikesh08__"            height="30" width="40" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
   <a href="https://www.codechef.com/users/nikeshvarma" target="blank">
     <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="nikeshvarma" height="30" width="60" />
   </a>
