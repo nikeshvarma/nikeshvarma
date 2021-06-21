@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nikeshvarma&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshvarma" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nikeshvarma.netlify.app/](https://nikeshvarma.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nikeshvarma.netlify.app](https://nikeshvarma.netlify.app)
 
 - 💬 Ask me about **HTML, CSS, JS & Django**
 
